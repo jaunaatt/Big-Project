@@ -1,4 +1,4 @@
-# 📊 CONTENTGANIZE
+# 📊 CONTGANIZE
 
 A simple command-line application built in Go for managing and analyzing content ideas for social media. This application has many features that really help content creators to manage their content creation.
 
